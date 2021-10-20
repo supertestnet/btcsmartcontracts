@@ -20,7 +20,7 @@ An address from which funds can be withdrawn only if some threshold of keyholder
 
 **Data address**
 
-A bitcoin address which does not have a private key but solely consists of 32 bytes of arbitrary data chosen by the address creator. A user who sends sats to X data addresses can add X*32 bytes of arbitrary data to bitcoin’s blockchain and to its chainstate. Data addresses have been used to add hundreds of thousands of kilobytes of arbitrary data to bitcoin’s blockchain in a single transaction. This is widely regarded as a dumb move and is referred to by many as chain spam.
+A bitcoin address which does not have a private key but solely consists of 32 bytes of arbitrary data chosen by the address creator. A user who sends sats to X data addresses can add X*32 bytes of arbitrary data to bitcoin’s blockchain and to its chainstate. Data addresses have been used to add hundreds of kilobytes of arbitrary data to bitcoin’s blockchain in a single transaction. This is widely regarded as a dumb move and is referred to by many as chain spam.
 
 **Op_return**
 
