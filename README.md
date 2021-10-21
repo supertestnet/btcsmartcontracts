@@ -2,7 +2,7 @@
 
 **Smart contract**
 
-A smart contract is a bitcoin address which, if you send money to it, has this property: only you can recover the money in that address, with an important exception. The exception is: if someone executes a script chosen by you, the script executor may take a fee (set by you). Also, the script may specify an arbitrary address where some or all of the money in the smart contract should go after the script is executed. Alternatively, if the script doesn't specify such an address, any remaining money stays in the smart contract address until it's all consumed by fees or until you recover whatever is left.
+A smart contract is a bitcoin address which, if you send money to it, has this property: only you can recover the money in that address, with an important exception. The exception is: if someone executes a script chosen by you, the script executor may take a fee (set by you). Also, the script may specify one or moer arbitrary addresses where some or all of the money in the smart contract should go after the script is executed. Alternatively, if the script doesn't specify such an address, any remaining money stays in the smart contract address until it's all consumed by fees or until you recover whatever is left.
 
 # Basic tools
 
