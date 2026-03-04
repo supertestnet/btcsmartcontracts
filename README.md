@@ -4,6 +4,10 @@
 
 A smart contract is a bitcoin address which, if you send money to it, has this property: only you can recover the money in that address, with an important exception. The exception is: if someone executes a script chosen by you, the script executor may take a fee (set by you). Also, the script may specify one or more addresses where some or all of the money in the smart contract should go after the script is executed. Alternatively, if the script doesn't specify such an address, any remaining money stays in the smart contract address until it's all consumed by fees or until you recover whatever is left.
 
+**Layer two** (aka "Second layer")
+
+A service where users can send their bitcoins and then transact on the service with reduced impact on bitcoin's blockchain, where users can withdraw their bitcoins by getting one or more bitcoin transactions confirmed. It is not a second layer if, without changing bitcoin's consensus rules or using a 51% mining attack, a group of one or more third parties, such as the service itself, can render the user's ability to withdraw invalid.
+
 # Basic tools
 
 **Hashlock**
