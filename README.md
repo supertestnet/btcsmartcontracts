@@ -6,7 +6,7 @@ A smart contract is a bitcoin address which, if you send money to it, has this p
 
 **Layer two** (aka "Second layer")
 
-A service where users can send their bitcoins and then transact on the service with reduced impact on bitcoin's blockchain, where users can withdraw their bitcoins by getting one or more bitcoin transactions confirmed. It is not a second layer if, without changing bitcoin's consensus rules or using a 51% mining attack, a group of one or more third parties, such as the service itself, can render the user's ability to withdraw invalid.
+A service where users can send their bitcoins and then transact on the service with reduced impact on bitcoin's blockchain, where users can withdraw their bitcoins by getting one or more bitcoin transactions confirmed. It is not a second layer if, without changing bitcoin's consensus rules or using a 51% mining attack, a group of one or more third parties, and/or the service itself, can render any user's ability to withdraw invalid.
 
 # Basic tools
 
