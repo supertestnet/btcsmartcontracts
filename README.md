@@ -28,7 +28,7 @@ A bitcoin address which does not have a private key but solely consists of 32 by
 
 **Op_return**
 
-A function which can be added to a bitcoin transaction to burn an arbitrary number of the sender’s sats forever and simultaneously add up to 80 bytes of arbitrary data to bitcoin’s blockchain but not to its chainstate
+A function which can be added to a bitcoin transaction to burn an arbitrary number of the sender’s sats forever and simultaneously add up to 100 kilobytes of arbitrary data to bitcoin’s blockchain but not to its chainstate
 
 **Presigned withdrawal**
 
