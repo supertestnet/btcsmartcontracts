@@ -42,7 +42,7 @@ A 2 of 2 multisig with 2 keyholders
 
 **Federation**
 
-An M of N multisig with N keyholders where M is a number lower than N
+An M of N multisig with N keyholders where M is a number equal to or lower than N
 
 **PSBT**
 
